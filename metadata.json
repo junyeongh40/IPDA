@@ -1,0 +1,6 @@
+{
+  "name": "IPDA",
+  "description": "AI Virtual Fitting Room, 3D Interactive Fitting Avatar, and Body Profile Style Consultant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
